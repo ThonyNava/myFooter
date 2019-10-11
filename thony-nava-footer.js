@@ -1,7 +1,7 @@
 /* Paste this before <body> ends
 
 <!-- Thony Nava Footer -->
-<script src="https://thonynava.github.io/Thony-Nava-Footer/thony-nava-footer.js"></script>
+<script src="https://thonynava.github.io/myFooter/thony-nava-footer.js"></script>
 
 */
 
